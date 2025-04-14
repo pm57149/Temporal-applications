@@ -1,0 +1,10 @@
+{
+  "WorkflowVersionOverrideFlags": {
+    "New_Activity_Version": [
+      {
+        "overriddenVersionTo": 1,
+        "isOverride": false
+      }
+    ]
+  }
+}
